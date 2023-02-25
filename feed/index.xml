@@ -9,8 +9,8 @@
 
 <channel>
 	<title>My Profile</title>
-	<atom:link href="https://miqdadrihdo.github.io/mycv/feed/" rel="self" type="application/rss+xml" />
-	<link>https://miqdadrihdo.github.io/mycv</link>
+	<atom:link href="https://miqdadridho.github.io/mycv/feed/" rel="self" type="application/rss+xml" />
+	<link>https://miqdadridho.github.io/mycv</link>
 	<description></description>
 	<lastBuildDate>Fri, 17 Feb 2023 03:27:17 +0000</lastBuildDate>
 	<language>id</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Halo dunia!</title>
-		<link>https://miqdadrihdo.github.io/mycv/halo-dunia/</link>
-					<comments>https://miqdadrihdo.github.io/mycv/halo-dunia/#comments</comments>
+		<link>https://miqdadridho.github.io/mycv/halo-dunia/</link>
+					<comments>https://miqdadridho.github.io/mycv/halo-dunia/#comments</comments>
 		
 		<dc:creator><![CDATA[miqdadridho]]></dc:creator>
 		<pubDate>Fri, 17 Feb 2023 03:27:17 +0000</pubDate>
 				<category><![CDATA[Tak Berkategori]]></category>
-		<guid isPermaLink="false">https://miqdadrihdo.github.io/mycv/?p=1</guid>
+		<guid isPermaLink="false">https://miqdadridho.github.io/mycv/?p=1</guid>
 
 					<description><![CDATA[Selamt datang di WordPress. Ini adalah pos pertama Anda. Sunting atau hapus, kemudian mulai menulis!]]></description>
 										<content:encoded><![CDATA[
 <p>Selamt datang di WordPress. Ini adalah pos pertama Anda. Sunting atau hapus, kemudian mulai menulis!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://miqdadrihdo.github.io/mycv/halo-dunia/feed/</wfw:commentRss>
+					<wfw:commentRss>https://miqdadridho.github.io/mycv/halo-dunia/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
