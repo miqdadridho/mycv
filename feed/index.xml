@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>My Profile</title>
+	<title>M. Miqdad Ridho. U</title>
 	<atom:link href="https://miqdadridho.github.io/mycv/feed/" rel="self" type="application/rss+xml" />
 	<link>https://miqdadridho.github.io/mycv</link>
 	<description></description>
@@ -18,7 +18,15 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://miqdadridho.github.io/mycv/wp-content/uploads/2024/02/MMRU-150x150.png</url>
+	<title>M. Miqdad Ridho. U</title>
+	<link>https://miqdadridho.github.io/mycv</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Halo dunia!</title>
 		<link>https://miqdadridho.github.io/mycv/halo-dunia/</link>
